@@ -6,9 +6,11 @@ Install:
 pip install -r requirements.txt
 
 Configure:
+
 ./manage.py migrate
 
-Run
+Run:
+
 ./manage.py runserver
 
 PROFIT!
